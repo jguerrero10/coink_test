@@ -28,3 +28,8 @@ python .\manage.py migrate
 ```bash
 python .\manage.py runserver
 ```
+
+## Test
+```bash
+python .\manage.py test 
+```
